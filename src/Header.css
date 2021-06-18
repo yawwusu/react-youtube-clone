@@ -1,0 +1,52 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: white;
+}
+
+.Header-left {
+  display: flex;
+  align-items: center;
+}
+
+.Header-middle {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  border: 1px solid lightgray;
+  /* padding: 5px; */
+}
+
+.Header-middle > input {
+  flex: 1;
+  border: none;
+  outline: none;
+}
+
+.Header-searchButton {
+  /* width: 50px !important; */
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  color: gray;
+}
+
+.Header-right {
+  display: flex;
+  align-items: center;
+}
+
+.Header-icon {
+  margin-right: 5px;
+}
+
+.Header-logo {
+  height: 75px;
+  width: 95px;
+  object-fit: contain;
+  margin-left: 10px;
+}
