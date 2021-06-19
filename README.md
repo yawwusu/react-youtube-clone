@@ -1,3 +1,13 @@
+# YOUTUBE-CLONE
+YouTube Clone done with React and Hosted with Firebase. Features include:
+- The look and feel of Youtube
+- Material-UI interface
+- React routing for searching
+- Hosting with Firebase
+- and many more...
+
+Check it out for yourself on [Youtube Clone](https://react-yt-clone-4d40c.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
